@@ -21,12 +21,11 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-    <img align="right" alt="Jhones-pic" height="150" style="border-radius:50px;" title="WorkSpace" src="https://live.staticflickr.com/65535/52019055318_427ba6e0f6_h.jpg">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" title="WorkSpace" src="https://live.staticflickr.com/65535/52019055318_427ba6e0f6_h.jpg">
 
 </div>
- 
   
-  <div> 
+<div> 
 
   <a href="https://www.instagram.com/claitto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:claiton_santos1@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
