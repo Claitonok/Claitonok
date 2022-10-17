@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Claitonok/"></a>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Claitonok&show_icons=true&theme=cobalt" >
-     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claitonok&layout=compact&hide_border=true&langs_count=7&theme=cobalt" >
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Claitonok&show_icons=true&theme=cobalt" >
+     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claitonok&layout=compact&hide_border=true&langs_count=7&theme=cobalt" >
  </div>
 
 
