@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/claiton-dos-santos-silva-97bb90245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     <a href="https://www.binance.com/pt-BR/price/BITCOIN" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
-    <a href="https://steamcommunity.com" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+    <a href="https://steamcommunity.com/profiles/76561199443172890/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
      <a href="https://www.youtube.com/channel/UC65HyMsLkSeLWl3luNn5o7g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     <a href="https://discord.com/channels/@me)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
       
