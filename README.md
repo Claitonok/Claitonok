@@ -6,8 +6,8 @@
 
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Claitonok&show_icons=true&theme=blue-green" >
-     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claitonok&layout=compact&hide_border=true&langs_count=7&theme=highcontrast" >
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Claitonok&show_icons=true&theme=dracula" >
+     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claitonok&layout=compact&hide_border=true&langs_count=7&theme=dracula" >
  </div>
 
 
@@ -29,7 +29,7 @@
   
 <div> 
 
-  <a href="https://www.instagram.com/claitto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/claitto/" target="_black"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:claiton_santos1@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/claiton-dos-santos-silva-97bb90245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
