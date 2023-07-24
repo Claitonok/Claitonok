@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-<img height="90" title="working" src="https://github.com/Claitonok/Claitonok/blob/main/workflows/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=30G705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+..........................;Eu+sou+Claitonok+e+estou+aprendendo+a+programar!..)](https://git.io/typing-svg)
+<img height="90" title="working" src="https://github.com/Claitonok/Claitonok/blob/main/imagem/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=30G705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+..........................;Eu+sou+Claitonok+e+estou+aprendendo+a+programar!..)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -23,7 +23,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" title="WorkSpace" src="https://github.com/Claitonok/Claitonok/blob/main/workflows/ico.png">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" title="WorkSpace" src="https://github.com/Claitonok/Claitonok/blob/main/imagem/ico.png">
 
 </div>
   
