@@ -6,8 +6,8 @@
 
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Claitonok&show_icons=true&theme=algolia" >
-     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claitonok&layout=compact&hide_border=true&langs_count=7&theme=algolia" >
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Claitonok&theme=blue-green&show_icons=true" >
+     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claitonok&layout=compact&hide_border=true&langs_count=7&theme=blue-green" >
  </div>
 
 
