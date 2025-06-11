@@ -10,7 +10,6 @@
      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claitonok&layout=compact&hide_border=true&langs_count=7&theme=blue-green" >
  </div>
 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="postgrsql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
@@ -22,9 +21,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img  align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/Claitonok/Claitonok/blob/main/imagem/java_preto.png">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" title="WorkSpace" src="https://github.com/Claitonok/Claitonok/blob/main/imagem/ico.png">
-
+  
 </div>
   
 <div> 
